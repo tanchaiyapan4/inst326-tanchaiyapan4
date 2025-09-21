@@ -6,3 +6,9 @@ Week 1
 
 I pretty much flew through all of the exercises with ease, and only had one that I was not confident with. I tried to use a loop to find an unwanted character, but I used the loop incorrectly and was over complicating my code. After checking with AI to see if my code was bug free or not, it suggested using the built in method "replace" instead.
 Here is my AI chat link: https://chatgpt.com/share/68c78e01-6e48-8011-939c-2d6b1c0a5f69
+
+week 2
+
+For one of the problems, I was supposed to align 2 list indexes together and I didn't know how, so I asked ai how I could do that, and it gave me the built in method: insert. This makes sense because the problem mentioned the word insert twice. 
+
+Here is my AI chat link: https://chatgpt.com/share/68cf57f5-dacc-8011-82ab-bc9c7f6a1fa1
